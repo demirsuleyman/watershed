@@ -1,0 +1,3 @@
+/home/demir/CLionProjects/watershed/cmake-build-debug/CMakeFiles/watershed.dir
+/home/demir/CLionProjects/watershed/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/demir/CLionProjects/watershed/cmake-build-debug/CMakeFiles/rebuild_cache.dir
