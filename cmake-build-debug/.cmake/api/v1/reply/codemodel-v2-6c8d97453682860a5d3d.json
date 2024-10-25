@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.29"
+						"string" : "3.22.1"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "watershed::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-watershed-Debug-67ac8a0d1eb6fa9c7722.json",
+					"jsonFile" : "target-watershed-Debug-a00c6b34dbe81a416862.json",
 					"name" : "watershed",
 					"projectIndex" : 0
 				}
